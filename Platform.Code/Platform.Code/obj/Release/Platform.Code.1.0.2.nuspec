@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Platform.Code</id>
+    <version>1.0.2</version>
+    <authors>Platform.Code</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="MassTransit.AspNetCore" version="7.3.1" exclude="Build,Analyzers" />
+        <dependency id="MassTransit.RabbitMQ" version="8.2.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="9.0.0-preview.5.24306.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="9.0.0-preview.5.24306.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="9.0.0-preview.5.24306.7" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver" version="2.27.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\USER\Desktop\microsApp\Platform.Code\Platform.Code\bin\Release\net8.0\Platform.Code.dll" target="lib\net8.0\Platform.Code.dll" />
+  </files>
+</package>

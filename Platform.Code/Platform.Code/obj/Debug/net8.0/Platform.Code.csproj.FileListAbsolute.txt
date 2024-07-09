@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\microsApp\Platform.Code\Platform.Code\bin\Debug\net8.0\Platform.Code.deps.json
+C:\Users\USER\Desktop\microsApp\Platform.Code\Platform.Code\bin\Debug\net8.0\Platform.Code.dll
+C:\Users\USER\Desktop\microsApp\Platform.Code\Platform.Code\bin\Debug\net8.0\Platform.Code.pdb
+C:\Users\USER\Desktop\microsApp\Platform.Code\Platform.Code\obj\Debug\net8.0\Platform.Code.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\microsApp\Platform.Code\Platform.Code\obj\Debug\net8.0\Platform.Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\microsApp\Platform.Code\Platform.Code\obj\Debug\net8.0\Platform.Code.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\microsApp\Platform.Code\Platform.Code\obj\Debug\net8.0\Platform.Code.AssemblyInfo.cs
+C:\Users\USER\Desktop\microsApp\Platform.Code\Platform.Code\obj\Debug\net8.0\Platform.Code.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\microsApp\Platform.Code\Platform.Code\obj\Debug\net8.0\Platform.Code.dll
+C:\Users\USER\Desktop\microsApp\Platform.Code\Platform.Code\obj\Debug\net8.0\refint\Platform.Code.dll
+C:\Users\USER\Desktop\microsApp\Platform.Code\Platform.Code\obj\Debug\net8.0\Platform.Code.pdb
+C:\Users\USER\Desktop\microsApp\Platform.Code\Platform.Code\obj\Debug\net8.0\ref\Platform.Code.dll

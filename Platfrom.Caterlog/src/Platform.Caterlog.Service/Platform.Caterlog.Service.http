@@ -1,0 +1,6 @@
+@Platform.Caterlog.Service_HostAddress = http://localhost:5018
+
+GET {{Platform.Caterlog.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

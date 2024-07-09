@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Platform.Caterlog.Service.props" />
+</Project>

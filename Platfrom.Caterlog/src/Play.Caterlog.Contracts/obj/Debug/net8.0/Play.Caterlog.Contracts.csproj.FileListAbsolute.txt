@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\microsApp\Platfrom.Caterlog\src\Play.Caterlog.Contracts\bin\Debug\net8.0\Play.Caterlog.Contracts.deps.json
+C:\Users\USER\Desktop\microsApp\Platfrom.Caterlog\src\Play.Caterlog.Contracts\bin\Debug\net8.0\Play.Caterlog.Contracts.dll
+C:\Users\USER\Desktop\microsApp\Platfrom.Caterlog\src\Play.Caterlog.Contracts\bin\Debug\net8.0\Play.Caterlog.Contracts.pdb
+C:\Users\USER\Desktop\microsApp\Platfrom.Caterlog\src\Play.Caterlog.Contracts\obj\Debug\net8.0\Play.Caterlog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\microsApp\Platfrom.Caterlog\src\Play.Caterlog.Contracts\obj\Debug\net8.0\Play.Caterlog.Contracts.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\microsApp\Platfrom.Caterlog\src\Play.Caterlog.Contracts\obj\Debug\net8.0\Play.Caterlog.Contracts.AssemblyInfo.cs
+C:\Users\USER\Desktop\microsApp\Platfrom.Caterlog\src\Play.Caterlog.Contracts\obj\Debug\net8.0\Play.Caterlog.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\microsApp\Platfrom.Caterlog\src\Play.Caterlog.Contracts\obj\Debug\net8.0\Play.Caterlog.Contracts.dll
+C:\Users\USER\Desktop\microsApp\Platfrom.Caterlog\src\Play.Caterlog.Contracts\obj\Debug\net8.0\refint\Play.Caterlog.Contracts.dll
+C:\Users\USER\Desktop\microsApp\Platfrom.Caterlog\src\Play.Caterlog.Contracts\obj\Debug\net8.0\Play.Caterlog.Contracts.pdb
+C:\Users\USER\Desktop\microsApp\Platfrom.Caterlog\src\Play.Caterlog.Contracts\obj\Debug\net8.0\ref\Play.Caterlog.Contracts.dll

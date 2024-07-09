@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MQg7RpWwG4tUxKZe6l8Krx4KjBJ4ShqTUfwcIop2sQk=",
+  "Source": "Platform.Caterlog.Service",
+  "BasePath": "_content/Platform.Caterlog.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
